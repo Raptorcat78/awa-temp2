@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@crystallize/reactjs-hooks": "^0.8.0"
+  }
+}
