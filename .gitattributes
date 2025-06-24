@@ -1,0 +1,11 @@
+/objects/pack filter=lfs diff=lfs merge=lfs -text
+*.DS_Store filter=lfs diff=lfs merge=lfs -text
+/HEAD filter=lfs diff=lfs merge=lfs -text
+/config filter=lfs diff=lfs merge=lfs -text
+/description filter=lfs diff=lfs merge=lfs -text
+*.sample filter=lfs diff=lfs merge=lfs -text
+/info/exclude filter=lfs diff=lfs merge=lfs -text
+*.idx filter=lfs diff=lfs merge=lfs -text
+*.pack filter=lfs diff=lfs merge=lfs -text
+*.rev filter=lfs diff=lfs merge=lfs -text
+/packed-refs filter=lfs diff=lfs merge=lfs -text
