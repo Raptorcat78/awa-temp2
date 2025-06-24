@@ -1,4 +1,4 @@
-/objects/pack filter=lfs diff=lfs merge=lfs -text
+/objects/pack/** filter=lfs diff=lfs merge=lfs -text
 *.DS_Store filter=lfs diff=lfs merge=lfs -text
 /HEAD filter=lfs diff=lfs merge=lfs -text
 /config filter=lfs diff=lfs merge=lfs -text
